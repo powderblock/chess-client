@@ -1,4 +1,4 @@
 chess-client
 ============
 
-A client for porglezomp's network chess game.
+A client for network-chess' game. Using porglezomp's API.
