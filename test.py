@@ -16,7 +16,7 @@ print "Player 1:", p1
 print "Player 2:", p2
 
 p1.make_move("a4")
-p2.make_move("a5")
+p2.make_move("b4")
 
 print
 print "PGN:"
